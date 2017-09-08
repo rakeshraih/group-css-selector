@@ -1,0 +1,29 @@
+{
+  "name": "group-css-selector",
+  "version": "1.0.0",
+  "description": "Group common css selectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshraih/group-css-selector.git"
+  },
+  "keywords": [
+    "CSS",
+    "css",
+    "selector",
+    "optimize",
+    "css"
+  ],
+  "author": "rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshraih/group-css-selector/issues"
+  },
+  "homepage": "https://github.com/rakeshraih/group-css-selector#readme",
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
